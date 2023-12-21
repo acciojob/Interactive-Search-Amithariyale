@@ -16,12 +16,9 @@ body{
 	background-color:transparent;
 	border:none;
 	padding:10px;
-/* 	outline:none; */
+	outline:none;
 }
 .btn:hover{
 	cursor:pointer;
 }
 
-.focused{
-	outline:none;
-}
